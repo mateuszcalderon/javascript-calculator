@@ -2,7 +2,7 @@
   <h1>JavaScript Calculator</h1>
 </div>
 
-This project is an iOS based calculator developed to enhance my proficiency in JavaScript. It is designed to be user-friendly, featuring an input length limit, an expression history, a backspace button with single click and long press support, percentage support and keyboard support.
+Designed to enhance my JavaScript skills, this iOS-based calculator provides a feature-rich and intuitive experience. Key functionalities include input length limit, expression history, backspace button (via single click and long press), percentage support and keyboard support.
 
 ### Calculator:
 ![image_alt](https://github.com/mateuszcalderon/javascript-calculator/blob/main/Calculator.jpg?raw=true)
